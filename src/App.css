@@ -27,11 +27,6 @@
   to { transform: rotate(360deg); }
 }
 
-h1 {
-  font-size: 54px;
-  color: #000;
-}
-
 ul {
   list-style-type: none;
 }
